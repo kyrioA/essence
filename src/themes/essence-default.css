@@ -9,19 +9,19 @@
     --essence-theme-name: 'Midnight Essence';
     
     /* || Base Palette */
-    --essence-primary: #1F1D30;
-    --essence-secondary: #292640;
-    --essence-alt: #333050;
-    --essence-tertiary: #151523;
-    --essence-app-background: #0C0B13;
+    --essence-primary: #202020;
+    --essence-secondary: #2A2A2A;
+    --essence-alt: #353535;
+    --essence-tertiary: #171717;
+    --essence-app-background: #0C0C0C;
     --essence-app-background-shadow: 0px 3px 8px rgba(0, 0, 0, 0.25);
-    --essence-popouts: #12111D;
-    --essence-modals: #211F33;
-    --essence-bgaccent: #2B2843;
-    --essence-inputs: #0E0D16;
+    --essence-popouts: #131313;
+    --essence-modals: #222222;
+    --essence-bgaccent: #2C2C2C;
+    --essence-inputs: #0E0E0E;
     --essence-card: var(--essence-tertiary);
     --essence-scroller-thumb: hsl(var(--essence-accent-brand));
-    --essence-scroller-track: #292640;
+    --essence-scroller-track: #2A2A2A;
 
     /* || Text Colors */
     --essence-text-primary: #E3E2EE;
